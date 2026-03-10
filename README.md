@@ -6,6 +6,7 @@ and ranked 22nd out of 171 teams._
 ### Overview
 Predict the daily leaf area growth rate of bok choy using minute-level environmental sensor data collected during the plant growth period.
 
+---
 ### Approach
 **Temporal Aggregation**
 
@@ -46,6 +47,7 @@ A **5-fold cross-validation** scheme was used to improve generalization and redu
 
 Predictions from each fold were **ensemble-averaged** for the final output.
 
+---
 ### Key Insight
 
 Plant growth is influenced by cumulative environmental exposure rather than minute-level fluctuations, making temporal smoothing and daily feature aggregation critical for reliable prediction.
