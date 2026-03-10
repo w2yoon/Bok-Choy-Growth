@@ -1,7 +1,8 @@
 ## Bok Choy Growth Prediction AI Competition
 
-*_Participated in the KIST-hosted AI competition on plant growth prediction  
+*_Participated in the [KIST-hosted AI competition](https://dacon.io/en/competitions/official/235961/) (2022.08.17 ~ 2022.09.19) on plant growth prediction  
 and ranked 22nd out of 171 teams._
+
 
 ### Overview
 Predict the daily leaf area growth rate of bok choy using minute-level environmental sensor data collected during the plant growth period.
